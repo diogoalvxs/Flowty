@@ -47,6 +47,9 @@ SHORT_BREAK_BUTTON = Button(None, (WIDTH/2, HEIGHT/2-140), 120, 30, "Short Break
                     pygame.font.Font("assets/ArialRoundedMTBold.ttf", 20), "#f1f1f1", "#c0c0c0")
 LONG_BREAK_BUTTON = Button(None, (WIDTH/2+150, HEIGHT/2-140), 120, 30, "Long Break", 
                     pygame.font.Font("assets/ArialRoundedMTBold.ttf", 20), "#f1f1f1", "#c0c0c0")
+START_STOP_BUTTON = Button(WHITE_BUTTON, (WIDTH/2, HEIGHT/2+100), 170, 60, "START", 
+                pygame.font.Font("assets/ArialRoundedMTBold.ttf", 20), "#181818", "#0078d4")
+
 
 # Define a duração dos diferentes períodos de tempo em segundos
 POMODORO_LENGTH = 1500  # 25 minutos em segundos
