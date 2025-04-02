@@ -1,5 +1,6 @@
 <b>🍅Flowty</b>
-#
+#![image](https://github.com/user-attachments/assets/d54395b1-f7dc-445b-acaa-8d579e4aa8e8)
+
 <b>Sobre:</b>
 "Flowty" é uma aplicação de gestão de tempo baseada no método Pomodoro, desenvolvida em Python utilizando a biblioteca Pygame. O método Pomodoro é uma técnica de produtividade que envolve dividir o trabalho em intervalos de tempo concentrados (geralmente 25 minutos), seguidos por pausas curtas. Este projeto oferece uma abordagem visualmente envolvente para ajudar os utilizadores a aumentar a sua produtividade e foco, bem como a gerir o seu progresso ao longo do tempo.
 <br>
